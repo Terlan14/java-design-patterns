@@ -1,4 +1,4 @@
-public class PenAdapter implements Pen
+public class PilotPenAdapter implements Pen
 {
     PilotPen pp=new PilotPen();
     @Override

@@ -5,8 +5,8 @@ public class School
     public static void main(String[] args)
     {
         AssignmentWork assignmentWork=new AssignmentWork();
-        PenAdapter penAdapter=new PenAdapter();
-        assignmentWork.setPen(penAdapter);
+        PilotPenAdapter pPenAdapter=new PilotPenAdapter();
+        assignmentWork.setPen(pPenAdapter);
         assignmentWork.writeAssignment("i am tired to write ");
     }
 }
