@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract-Factory/Abstract-Factory.iml" filepath="$PROJECT_DIR$/Abstract-Factory/Abstract-Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter2/Adapter2.iml" filepath="$PROJECT_DIR$/Adapter2/Adapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter3/Adapter3.iml" filepath="$PROJECT_DIR$/Adapter3/Adapter3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer2/Observer2.iml" filepath="$PROJECT_DIR$/Observer2/Observer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-patterns.iml" filepath="$PROJECT_DIR$/java-design-patterns.iml" />
     </modules>
